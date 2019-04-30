@@ -1,2 +1,3 @@
 # djangonautic
-learning django
+django blog.
+
